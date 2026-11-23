@@ -1,4 +1,4 @@
-# ML-3  Ordinary Least Squares (Closed-form) Linear Regression
+# EXPERIMENT-3  Ordinary Least Squares (Closed-form) Linear Regression
 
 # AIM
 
